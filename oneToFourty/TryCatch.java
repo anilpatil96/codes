@@ -1,4 +1,6 @@
-public class MyClass 
+// 15 Try Catch
+
+public class TryCatch 
 {
     public static void main(String args[]) 
     {

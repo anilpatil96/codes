@@ -1,4 +1,4 @@
-package oneToFourty;
+// 9 single and multi dimentional array
 
 public class arrayAssisted {
 

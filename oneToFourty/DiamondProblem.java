@@ -1,3 +1,5 @@
+// Problem number 20
+
 interface First 
 {  
     default void show() 
@@ -12,7 +14,7 @@ interface Second
         System.out.println("Default Second"); 
     } 
 }  
-public class TestClass implements First, Second 
+public class DiamondProblem implements First, Second 
 {  
     public void show() 
     {  
@@ -21,7 +23,7 @@ public class TestClass implements First, Second
     } 
     public static void main(String args[]) 
     { 
-        TestClass ob = new TestClass(); 
+        DiamondProblem ob = new DiamondProblem(); 
         ob.show(); 
     } 
 }

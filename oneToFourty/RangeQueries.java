@@ -1,3 +1,5 @@
+// 24
+
 public class RangeQueries
 { 
     static int k = 16;

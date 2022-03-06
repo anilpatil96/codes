@@ -1,6 +1,8 @@
+// 10 Regular Expression
+
 import java.util.regex.*;
 
-public class regularExpnAssisted {
+public class RegularExpressions {
 
 public static void main(String[] args) {
 

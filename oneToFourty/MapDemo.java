@@ -1,5 +1,6 @@
+// 7-1
 import java.util.*;
-public class mapDemo {
+public class MapDemo {
 
 	public static void main(String[] args) {
 		// map

@@ -1,4 +1,6 @@
-public class ThrowDemo
+// 16 throw keyword
+
+public class ThrowKeyword
     {
         public static void main(String[] args)
         {

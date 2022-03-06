@@ -1,3 +1,5 @@
+// 23
+
 class KthSmallst 
 { 
 int kthSmallest(int arr[], int l, int r, int k) 
@@ -41,7 +43,7 @@ int kthSmallest(int arr[], int l, int r, int k)
         return partition(arr, l, r); 
     } 
 }  
-public class Main
+public class OrderStatistics
 {
 	public static void main(String[] args) {
 		KthSmallst ob = new KthSmallst(); 
